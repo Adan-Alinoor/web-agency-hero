@@ -1,0 +1,30 @@
+body{
+    
+    background-image: url("/img/faded-office.png")  ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    position: absolute;
+      margin: 0;
+     font-family: "Open Sans", sans-serif;
+
+     padding: 10px;
+}
+
+.title{
+    color:#020202;
+    font-size: 80px;
+}
+.content{
+  color:#020202; 
+  font-size: 40px; 
+}
+#btn{
+    color: aliceblue;
+    background: #0ea5e9;
+    border: none;
+    padding: 10px 20px;
+}
+.underline{
+    border-bottom: 6px solid #0ea5e9;
+}
